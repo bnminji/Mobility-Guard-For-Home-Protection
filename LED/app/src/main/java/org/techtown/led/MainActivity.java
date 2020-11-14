@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
     private MqttAndroidClient client;
     ViewPager pager;
     int chk = 0;
+    int test = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
